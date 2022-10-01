@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_image_url_image_url,image_url.image_url,model_image_url_image_url,base.group_user,1,1,1,1
